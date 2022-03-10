@@ -1,7 +1,8 @@
+import Navbar from "./assets/img/components/Navbar";
 
 function App() {
   return (
-    <h1>Página Principal</h1>
+   <Navbar/>
   );
 }
 
