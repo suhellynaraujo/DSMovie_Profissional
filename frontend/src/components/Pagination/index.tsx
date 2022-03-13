@@ -4,7 +4,7 @@ import './style.css';
 
 type Props = {
   page: MoviePage;
-  onChange : Function;
+  onChange: Function;
 }
 
 

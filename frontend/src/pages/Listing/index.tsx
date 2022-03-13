@@ -6,6 +6,7 @@ import { BASE_URL } from "utils/request";
 import { MoviePage } from "types/movie";
 
 function Listing() {
+  
   const [pageNumber, setPageNumber] = useState(0);
 
   const [page, setPage] = useState<MoviePage>({
